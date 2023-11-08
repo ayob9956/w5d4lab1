@@ -3,7 +3,7 @@ margin: 50px;
 width: 90%;
 align-items: center;
 align-content: center;
-
+gap:5px;
 display: flex;
 flex-wrap: wrap;
   
