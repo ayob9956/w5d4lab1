@@ -1,0 +1,20 @@
+#continer{
+margin: 50px;
+width: 90%;
+align-items: center;
+align-content: center;
+border: 1px solid black;
+display: flex;
+flex-wrap: wrap;
+  
+}
+.divs{
+    text-align: center;
+    text-align: center;
+    background-color: aqua;
+    width: 185px;
+    height: 100px;
+    border:1px solid black;
+    font-size: 50px;
+    text-align: center;
+}
